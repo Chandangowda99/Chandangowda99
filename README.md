@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chandangowda99
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning B Tech
+- 👀 I’m interested in Web Development, Programming
+- 🌱 I’m currently learning B Tech in Computer Science
 - 💞️ I’m looking to collaborate on any problem during coding
 - 📫 How to reach me - chandangowda2442@gmail.com
 

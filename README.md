@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chandangowda99
 - 👀 I’m interested in Web Development, Programming
-- 🌱 I’m PLM Softwarae Developer
+- 💻 I’m PLM Developer
 - 💞️ I’m looking to collaborate on any problem during coding
 - 📫 How to reach me - chandangowda2442@gmail.com
 
